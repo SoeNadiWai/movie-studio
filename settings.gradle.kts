@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "MovieStudio"
 include(":app")
- 
+include(":features")
+include(":features:home")
+include(":core")
